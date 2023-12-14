@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48530513-12f5-4a77-8497-14e03db0a427" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="package.json" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jjazU9KqMiQX3DFmNkAUsZ7uFz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NodeProject_Zavrsni" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\KORISNIK\WebstormProjects\projekatSJ" />
+      <recent name="D:\Users\KORISNIK\WebstormProjects\projekatSJ\zamrznutiprod\src\assets" />
+      <recent name="D:\Users\KORISNIK\WebstormProjects\projekatSJ\zamrznutiprod\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\KORISNIK\WebstormProjects\projekatSJ" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48530513-12f5-4a77-8497-14e03db0a427" name="Default Changelist" comment="" />
+      <created>1604320218704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604320218704</updated>
+      <workItem from="1604320220478" duration="14856000" />
+      <workItem from="1604360091294" duration="970000" />
+      <workItem from="1604406204748" duration="4593000" />
+      <workItem from="1604429851156" duration="1389000" />
+      <workItem from="1604849745535" duration="113000" />
+      <workItem from="1604941450918" duration="11066000" />
+      <workItem from="1605021640364" duration="2950000" />
+      <workItem from="1605030817853" duration="594000" />
+      <workItem from="1605032673024" duration="2346000" />
+      <workItem from="1605106544137" duration="4079000" />
+      <workItem from="1605122217672" duration="5235000" />
+      <workItem from="1605176056998" duration="30000" />
+      <workItem from="1605223919543" duration="5111000" />
+      <workItem from="1605269832555" duration="16903000" />
+      <workItem from="1605297166835" duration="880000" />
+      <workItem from="1605361069725" duration="9523000" />
+      <workItem from="1605455980301" duration="186000" />
+      <workItem from="1605457612307" duration="1134000" />
+      <workItem from="1605533909585" duration="1712000" />
+      <workItem from="1605572504558" duration="2848000" />
+      <workItem from="1607908385520" duration="6000" />
+      <workItem from="1611538725206" duration="7000" />
+      <workItem from="1611539128594" duration="4650000" />
+      <workItem from="1611665787523" duration="1209000" />
+      <workItem from="1615297859765" duration="666000" />
+      <workItem from="1621516566946" duration="27000" />
+      <workItem from="1621959373754" duration="62000" />
+      <workItem from="1702578964358" duration="229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1702579083591">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.0.1536.834@0.0.1920.1050" timestamp="1702579083591" />
+  </component>
+</project>
